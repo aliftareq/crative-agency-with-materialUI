@@ -5,7 +5,7 @@ const SectionTitle = ({ title, colored }) => {
     return (
         <div>
             <Typography sx={{
-                fontSize: '34px',
+                fontSize: '30px',
                 fontWeight: 'bold',
                 textAlign: 'center'
             }}>
