@@ -6,6 +6,7 @@ export const theme = createTheme({
             main: '#111430',
             yellow: '#FBD062',
             lime: '#32CD32',
+            darkgrey: '#5A5A5A'
         },
     },
     components: {
